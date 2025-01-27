@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root{
+  --red: rgb(207, 33, 66);
+  --orange: rgb(230, 173, 77);
+}
